@@ -4,17 +4,17 @@ title: About
 permalink: /about/
 ---
 
-I am a *political scientist* working at the intersection of data science and social science. My research interests span both domains of data analytics and political studies, with a regional focus on East Asia. The unifying theme of my research is to use fast growing scientific methods, data-oriented research design and statistical computing to decipher and prescribe social and political problems. Areas of substantive topics include democratization, political economy, public policy and human rights. I pursue both data analytics and data modeling in building public goods, aiming at improving policies, governance and representation.
+I am a first-year PhD student and a Research Assistant in the Department of Political Science at the University of Texas at Dallas. My research interests are Conflict Resolution, Ethnicity and International Relations. I have completed my Master’s degree in Political Science from the University of Delhi, India. 
 
 ### More Information
 
 Philosophy:
 
-  * Data Science for all, STEM or Non
-  * Teach to Learn
+  * To achieve a balance between our own mental space and the shared professional workfront
+  * Learning never stops. We must engage in some form of learning to better ourselved each day.
 
 ### Contact me
 
-[karlho@gmail.com](mailto:karlho@gmail.com)
+[kmedhi9119@gmail.com](mailto:kmedhi9119@gmail.com)
 
-[Website](https://karlho.com)
+[Website](https://kmedhi.github.io)

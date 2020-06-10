@@ -11,7 +11,8 @@ I am a first-year PhD student and a Research Assistant in the Department of Poli
 Philosophy:
 
   * To achieve a balance between our own mental space and the shared professional workfront
-  * Learning never stops. We must engage in some form of learning to better ourselved each day.
+  * Learning never stops. We must engage in some form of learning to better ourselves each day
+  * Seeking knowledge to find true purpose and meaning of this human life with the help of meditation and the art of mindfulness
 
 ### Contact me
 

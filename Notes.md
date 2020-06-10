@@ -7,7 +7,6 @@
   * Avatar (file path to include my image)
   * github id
   * LinkedIn id
-  * 
 * Updated the **Research.md** file to include information about my own research
 * Updated the default.html within the **_layouts** file to include a new section in my page as *Misc* where i plan to blog a bit!
   * To add information on that section, I added a new **misc.md** file

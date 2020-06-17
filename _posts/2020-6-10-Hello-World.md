@@ -18,3 +18,8 @@
 * Added my image in the image folder (already exists) as I had already given the file path 
 * Added my CV inside data folder according to path described in **_layouts** file
 * Modified the **about.md** file (already exists) to include my information
+
+### Adding a new blog entry
+* Create a new markdown file in the `_posts/` folder with the following name format: yyyy-mm-dd-Title.md, an example 
+  will be `2020-06-10-Hello.md`. Once the file is committed (akin to saved), a new entry will automatically appear
+  for that blog post on the website.

@@ -10,4 +10,12 @@
     * Twitter handles like PMOIndia, narendramodi, AmitShah, Rahulgandhi are in the dense part of the network, suggesting that their tweets ahve been retweeted the most.
     * Although a few influential names are showing on screen, influence is not of any significance as the data is taken only from one day.
 
+**igraph plot**
 ![Test plot](/data/final-igraph.png)
+
+
+**ts plot(hours)**
+![Test plot](/data/finaltsplot(hours).png)
+
+**ts plot(mins)**
+![Test plot](/data/Finaltsplot(mins).png)

@@ -9,6 +9,8 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
+Coming Soon...
+
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>

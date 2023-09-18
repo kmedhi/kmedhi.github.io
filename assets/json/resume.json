@@ -27,8 +27,8 @@
       "name": "University of Texas at Dallas",
       "position": "Graduate student",
       "url": "https://example.com",
-      "startDate": "2019-12-08",
-      "endDate": "2024-01-02",
+      "startDate": "2019-08-01",
+      "endDate": "2024-08-02",
       "summary": "I am a graduate student of political science in the School of Economic, Political and Policy Sciences, University of Texas at Dallas.",
       "highlights": [
         "Mass protests, political violence, human rights"
@@ -42,8 +42,8 @@
       "url": "https://www.utdallas.edu/",
       "area": "Political Science",
       "studyType": "PhD",
-      "startDate": "2019-01-08",
-      "endDate": "2023-02-08",
+      "startDate": "2019-08-01",
+      "endDate": "2024-08-02",
       "score": "",
       "courses": [
         "Protest Campaigns - Unified or Fragmented"

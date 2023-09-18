@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Proposal on transnational repression accepted at [Midwest Political Science Association](https://www.mpsanet.org/conference/).
+Proposal on transnational repression accepted at [Midwest Political Science Association 2022](https://www.mpsanet.org/conference/).

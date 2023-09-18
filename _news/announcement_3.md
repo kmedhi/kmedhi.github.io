@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Research on transnational repression co-authored with Dr Rebecca Cordell accepted at [International Studies Association](https://www.isanet.org/Conferences/ISA2023). 
+Research on transnational repression co-authored with Dr Rebecca Cordell accepted at [International Studies Association 2023](https://www.isanet.org/Conferences/ISA2023). 

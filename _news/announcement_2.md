@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented research on transnational repression co-authored with Dr Rebecca Cordell at [Midwest Political Science Association](https://www.mpsanet.org/conference/).
+Presented research on transnational repression co-authored with Dr Rebecca Cordell at [Midwest Political Science Association 2022](https://www.mpsanet.org/conference/).

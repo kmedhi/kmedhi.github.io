@@ -10,11 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>GR 3.314</p>
-    <p>800 W Campbell Rd, Richardson, TX 75080</p>
+    <p>800 W Campbell Rd</p>
     <p>Richardson, Texas 75080</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---

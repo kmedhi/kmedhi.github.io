@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Green Hall (GR) 3.314</p>
-    <p>School of Economic, Political and Policy Sciences (EPPS) </p>
-    <p>The University of Texas at Dallas</p>
+    <p>University of Texas at Dallas</p>
     <p>Richardson, Texas 75080</p>
 
 news: true  # includes a list of news items

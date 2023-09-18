@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kashmiri Medhi",
+    "label": "Graduate student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "kashmiri.medhi@utdallas.edu",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://kmedhi.github.io",
+    "summary": "Highly driven Political Science PhD student with over 5 years’ experience in qualitative and quantitative research projects.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,38 +24,38 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "University of Texas at Dallas",
+      "position": "Graduate student",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2019-12-08",
+      "endDate": "2024-01-02",
+      "summary": "I am a graduate student of political science in the School of Economic, Political and Policy Sciences, University of Texas at Dallas.",
       "highlights": [
-        "Relativity"
+        "Mass protests, political violence, human rights"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Texas at Dallas",
+      "url": "https://www.utdallas.edu/",
+      "area": "Political Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019-01-08",
+      "endDate": "2023-02-08",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Protest Campaigns - Unified or Fragmented"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Government and Political Science Fellowship award",
+      "date": "2023-27-04",
+      "awarder": "School of Economic, Political and Policy Sciences (EPPS) at UT-Dallas",
+      "summary": "The Government and Political Science Scholarship was established in 2019 by the Political Science faculty. The scholarship is awarded to full- or part-time undergraduate students studying Political Science with a minimum GPA of 2.8. The amount of the award is $1,000."
     }
   ],
   "certificates": [],
@@ -63,12 +63,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
     }
   ],
   "interests": [],

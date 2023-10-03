@@ -10,9 +10,13 @@ nav_order: 1
 <div class="publications">
 
 - Under the same flag: exploring protest fragmentation with search query data (with Anton Sobolev)
+  
 - Transnational Repression: International Cooperation in Silencing Dissent (with Rebecca Cordell)
+  
 - Strategizing Silence and Signal: Analyzing Russian Propaganda Using Putin's Official Schedule (with Anton Sobolev)
+  
 - Achieving Gender Equality and Empowering Women and Girls: A Focus on Female Infanticide in India (with Meghna Sabharwal)
+  
 - Socialization of Violence: The Rwandan Case” with Jared Edgerton and Hollie Nyseth Nzitatira.
 
 

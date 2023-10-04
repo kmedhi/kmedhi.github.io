@@ -7,8 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-### Research Papers
-
 #### Under the same flag: exploring protest fragmentation with search query data
 - Co-authors: Anoton Sobolev
 - A study examining protest movements and their classification, focusing on the recent Citizenship (Amendment) Bill protests in India.
@@ -26,7 +24,7 @@ nav_order: 1
 - Co-authors: Anton Sobolev
 - To appear in Workshop on ..., Columbia University 2023
 
-### Book chapters
+#### Book chapters
 - “Achieving Gender Equality and Empowering Women and Girls: A Focus on Female Infanticide in India” With Meghna Sabharwal
 
 

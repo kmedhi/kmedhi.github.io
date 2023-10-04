@@ -11,7 +11,7 @@ nav_order: 1
 
 <div class="publication">
 
-<h2 class="publication-title">
+<h3 class="publication-title">
     Under the same flag: exploring protest fragmentation with search query data
 </h2>
 <p class="publication-description">

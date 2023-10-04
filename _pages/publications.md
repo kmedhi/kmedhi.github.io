@@ -9,9 +9,10 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<h1> APSA </h1>
+<p>Under the same flag</p>
 
 
-
-<!-- {% bibliography -f {{ site.scholar.bibliography }} %} -->
+ {% bibliography -f {{ }} %} 
 
 </div>

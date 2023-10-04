@@ -13,26 +13,4 @@ nav_order: 1
 <p class="publication-title">Under the same flag</p>
 <!-- Add more publications here -->
 
-</div>
 
-.publications {
-    text-align: left;
-    max-width: 800px; 
-    margin: auto;
-}
-
-.section-title {
-    font-size: 24px;
-    color: #333;
-    margin-bottom: 10px;
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
-}
-
-.publication-title {
-    font-size: 18px;
-    color: #555;
-    margin-bottom: 10px;
-}
-
-<link rel="stylesheet" href="/path_to_your_css_file.css">

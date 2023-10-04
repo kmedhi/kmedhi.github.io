@@ -6,12 +6,13 @@ description: A list of my works in progress, under review papers and book chapte
 nav: true
 nav_order: 1
 ---
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h1> APSA </h1>
+<h1>APSA</h1>
 <p>Under the same flag</p>
 
-<!-- {% bibliography -f {{ }} %} --> 
+<!-- Add your publications here -->
 
 </div>

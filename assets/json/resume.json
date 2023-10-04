@@ -14,19 +14,12 @@
       "countryCode": "US",
       "region": "Texas"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
       "name": "University of Texas at Dallas",
       "position": "Graduate student",
-      "url": "https://example.com",
+      "url": "https://epps.utdallas.edu/",
       "startDate": "2019-08-01",
       "endDate": "2024-08-02",
       "summary": "Graduate student of Political Science in the School of Economic, Political and Policy Sciences",
@@ -48,19 +41,37 @@
       "courses": [
         "Protest Campaigns - Unified or Fragmented"
       ]
-    }
+    },
+    {
+      "institution": "University of Delhi, Miranda House",
+      "url": "https://www.mirandahouse.ac.in/",
+      "area": "Political Science",
+      "studyType": "BA, MA",
+      "startDate": "2009-08-01",
+      "endDate": "2014-08-01",
+      "score": "",
+      "courses": [
+        "TULA Consumer Club"
+      ]
+    },
   ],
   "awards": [
     {
       "title": "Government and Political Science Fellowship award",
-      "date": "2023-27-04",
+      "date": "2023-04-27",
       "awarder": "School of Economic, Political and Policy Sciences (EPPS) at UT-Dallas",
       "summary": "The Government and Political Science Scholarship was established in 2019 by the Political Science faculty."
+    },
+    {
+      "title": "US-Andean Innovation Fund Grant Competition",
+      "date": "2023-07-24",
+      "awarder": "United States Department of State",
+      "summary": "International Exchange and Training for Human Rights Policy"
     }
   ],
   "certificates": [],
   "publications": [],
-  "skills": ["R/RStudio, Stata, Figma, LaTeX, Statistical Methods, Surveys, In-depth interviewing, Focus Group Discussions"],
+  "skills": "R/RStudio, Stata, Figma, LaTeX, Statistical Methods, Surveys, In-depth interviewing, Focus Group Discussions",
   "languages": [
     {
       "language": "English",
@@ -71,7 +82,7 @@
       "fluency": "Beginner"
     }
   ],
-  "interests": ["Data driven analysis of protest movements, applying techniques from statistical methods and causal inference to bring out insights on protests."],
+  "interests": "Data driven analysis of protest movements, applying techniques from statistical methods and causal inference to bring out insights on protests.",
   "references": [],
   "projects": []
 }

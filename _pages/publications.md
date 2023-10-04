@@ -12,7 +12,6 @@ nav_order: 1
 <h1> APSA </h1>
 <p>Under the same flag</p>
 
-
- {% bibliography -f {{ }} %} 
+<!-- {% bibliography -f {{ }} %} --> 
 
 </div>

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed the Field Paper exam.
+Passed the PhD Field Paper exam!

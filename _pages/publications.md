@@ -7,27 +7,10 @@ nav: true
 nav_order: 1
 ---
 
+### Under the same flag: exploring protest fragmentation with search query data
+A study examining protest movements and their classification, focusing on the recent Citizenship (Amendment) Bill protests in India.
 
-
-<div class="publication">
-
-<h3 class="publication-title">
-    Under the same flag: exploring protest fragmentation with search query data
-</h2>
-<p class="publication-description">
-    A study examining protest movements and their classification, focusing on the recent Citizenship (Amendment) Bill protests in India.
-</p>
-<p class="conference-list">
-    Presented at: 
-    <a href="https://www.apsanet.org/annualmeeting" target="_blank">APSA</a>, 
-    <a href="https://www.mpsanet.org/conference/" target="_blank">MPSA</a>, 
-    <a href="https://polmeth2023.sites.stanford.edu/" target="_blank">PolMeth</a>
-</p>
-
-</div>
-
-
-
+Presented at [APSA'23](https://www.apsanet.org/annualmeeting), [MPSA'23](https://www.mpsanet.org/conference/), [PolMeth'23](https://polmeth2023.sites.stanford.edu/)
 
 
 

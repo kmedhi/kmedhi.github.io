@@ -9,8 +9,9 @@ nav_order: 1
 
 #### Under the same flag: exploring protest fragmentation with search query data
 - Co-authors: Anoton Sobolev
-- A study examining protest movements and their classification, focusing on the recent Citizenship (Amendment) Bill protests in India.
 - Presented at [APSA'23](https://www.apsanet.org/annualmeeting), [MPSA'23](https://www.mpsanet.org/conference/), [PolMeth'23](https://polmeth2023.sites.stanford.edu/)
+
+A study examining protest movements and their classification, focusing on the recent Citizenship (Amendment) Bill protests in India.
 
 #### Transnational Repression: International Cooperation in Silencing Dissent
 - Co-authors: Rebeca Cordell

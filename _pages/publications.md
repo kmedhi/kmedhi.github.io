@@ -14,7 +14,7 @@ nav_order: 1
     American Political Science Association 2023
   </a>
 </h2>
-<p class="publication-title">Under the same flag</p>
+<p class="publication-title">Under the same flag: exploring protest fragmentation with search query data</p>
 <p class="publication-abstract">Scholars of contentious politics study protests at two levels: individual events and mass protest movements. If multiple protest events occur contemporaneously and under the same flag, scholars tend to classify them as a part of the same protest movement. Is it always justified? We develop a method to check whether the individual events represent the same protest movement or belong to different movements, even if they operate under the same "flag." The method employs a sub-national variation of the web search queries related to the same triggering events. We verify this approach with a detailed study of the recently sparked Citizenship (Amendment) Bill protests in India.</p>
 
 

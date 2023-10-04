@@ -7,6 +7,10 @@
       value: English, Hindi, Assamese
     - name: Location
       value: Richardson, Texas
+    - name: Email
+      value: kashmiri.medhi@utdallas.edu
+    - name: Website
+      value: https://kmedhi.github.io
 
 - title: Education
   type: time_table
@@ -16,7 +20,7 @@
       year: 2019-2024
       description:
         - Political Science
-        - Research on Protest Campaigns. Political Violence and Human Rights
+        - Research on Protest Campaigns, Political Violence and Human Rights
     - title: BA, MA
       institution: University of Delhi, Miranda House
       year: 2009-2014

@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Instructor
 - GOVT2305 - American National Government: Fall 2021
-- Taught R introductory course: Summer 2023 (at Universidad EAFIT, Colombia as part of a US Department of State grant)
+- Taught introductory R course, Summer 2023 at Universidad EAFIT, Colombia as part of a US Department of State grant
 
 ### Teaching Assistant
 - State and Local Government GOVT 2306; American Public Policy PSCI 3325: Fall 2019

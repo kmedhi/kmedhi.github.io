@@ -15,11 +15,11 @@ A study examining protest movements and their classification, focusing on the re
 
 #### Transnational Repression: International Cooperation in Silencing Dissent
 - Co-authors: Rebeca Cordell
-- Presented at APSA'23 and MPSA'22. Under review with Journal.
+- Presented at [APSA'23](https://www.apsanet.org/annualmeeting) and [MPSA'22](https://www.mpsanet.org/conference/). Under review with Journal.
 
 #### Socialization of Violence: The Rwandan Cas
 - Co-authors: Jared Edgerton and Hollie Nyseth Nzitatira
-- To appear in ISA'24
+- To appear in [ISA'24](https://www.isanet.org/Conferences/ISA2024)
 
 #### Strategizing Silence and Signal: Analyzing Russian Propaganda Using Putin’s Official Schedule
 - Co-authors: Anton Sobolev

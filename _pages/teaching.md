@@ -8,10 +8,15 @@ nav_order: 5
 ---
 
 ### Instructor
-- Fall course for undergrad students?
-- Colombia State Department grant to teach?
+- GOVT2305 - American National Government: Fall 2021
+- Taught R introductory course: Summer 2023 (at Universidad EAFIT, Colombia as part of a US Department of State grant)
 
 ### Teaching Assistant
-- Course Name: Semester(s)
-- Course Name: Semester(s)
-- Course Name: Semester(s)
+- State and Local Government GOVT 2306; American Public Policy PSCI 3325: Fall 2019
+- International Law PSCI 4363: Spring 2020
+- International Relations PSCI 3328: Fall 2020
+- Constitutional Law PSCI 3322: Spring 2021
+- Constitutional Law PSCI 3322: Spring 2022
+- Political Violence and Conflict in Cyberspace PPPE 6302: Fall 2022
+- Political Violence and Conflict in Cyberspace PPPE 6302: Fall 2023
+  

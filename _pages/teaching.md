@@ -15,8 +15,7 @@ nav_order: 5
 - State and Local Government GOVT 2306; American Public Policy PSCI 3325: Fall 2019
 - International Law PSCI 4363: Spring 2020
 - International Relations PSCI 3328: Fall 2020
-- Constitutional Law PSCI 3322: Spring 2021
-- Constitutional Law PSCI 3322: Spring 2022
-- Political Violence and Conflict in Cyberspace PPPE 6302: Fall 2022
-- Political Violence and Conflict in Cyberspace PPPE 6302: Fall 2023
+- Constitutional Law PSCI 3322: Spring 2021, Spring 2022
+- Political Violence and Conflict in Cyberspace PPPE 6302: Fall 2022, Fall 2023
+ 
   

@@ -16,6 +16,10 @@ A study examining protest movements and their classification, focusing on the re
 #### Transnational Repression: International Cooperation in Silencing Dissent
 - Co-authors: Rebeca Cordell
 - Presented at [APSA'23](https://www.apsanet.org/annualmeeting) and [MPSA'22](https://www.mpsanet.org/conference/). Under review with Journal.
+- ![Transnational Repression: International Cooperation in Silencing Dissent](/home/ninad/Desktop/tr.png)
+
+*Source: Freedom House*
+
 
 #### Socialization of Violence: The Rwandan Cas
 - Co-authors: Jared Edgerton and Hollie Nyseth Nzitatira

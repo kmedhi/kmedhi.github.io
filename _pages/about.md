@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Green Hall (GR) 3.314</p>
+    <p>Green Hall (GR) 3.3522</p>
     <p>University of Texas at Dallas</p>
     <p>Richardson, Texas 75080</p>
 
